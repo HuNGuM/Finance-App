@@ -1,0 +1,13 @@
+# GUI
+tkcalendar
+matplotlib
+
+# PDF
+fpdf
+pdfplumber
+
+# Excel
+openpyxl
+
+# Testy
+pytest
